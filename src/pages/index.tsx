@@ -47,7 +47,7 @@ export default function Home() {
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus
               aliquid error possimus expedita odit. aliquid error possimus
-              expedita odit.
+              expedita dit.
             </p>
           </div>
         </div>
